@@ -1,0 +1,22 @@
+body {
+  background: cadetblue;
+  color: white;
+  margin: 30px;
+  max-width: 400px;
+  text-align: center;
+}
+a {
+  color: white;
+  border: solid 1px;
+  border-radius: 4px;
+  padding: 13px;
+  text-decoration: none;
+  margin-top: 20px;
+  display: block;
+}
+img {
+  display: block;
+  margin-bottom: 30px;
+  border-radius: 4px;
+  max-width: 400px;
+}
